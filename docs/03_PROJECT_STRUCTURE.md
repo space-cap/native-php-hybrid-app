@@ -46,11 +46,18 @@ native-php-hybrid-app/
 │   └── seed.sql
 │
 ├── docs/
-│   ├── PROJECT_OVERVIEW.md
-│   ├── FEATURE_ROADMAP.md
-│   ├── PROJECT_STRUCTURE.md
-│   ├── TECH_STACK.md
-│   ├── DESIGN_DIRECTION.md
+│   ├── 00_DOCUMENT_INDEX.md
+│   ├── 01_PROJECT_OVERVIEW.md
+│   ├── 02_TECH_STACK.md
+│   ├── 03_PROJECT_STRUCTURE.md
+│   ├── 04_DESIGN_DIRECTION.md
+│   ├── 05_FEATURE_ROADMAP.md
+│   ├── 06_WORK_PLAN.md
+│   ├── 07_DB_SCHEMA.md
+│   ├── 08_API_SPEC.md
+│   ├── 09_SETUP_GUIDE.md
+│   ├── 10_TEST_CHECKLIST.md
+│   ├── 11_DEMO_SCENARIO.md
 │   └── images/
 │
 └── postman/

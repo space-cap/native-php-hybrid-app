@@ -267,10 +267,10 @@
 
 ## 11. 연계 문서
 
-- `docs/DOCUMENT_INDEX.md`: 전체 문서 목록과 추천 읽기 순서
-- `docs/API_SPEC.md`: API 엔드포인트, 요청, 응답, 오류 코드 정리
-- `docs/DB_SCHEMA.md`: MariaDB 테이블 구조와 컬럼 정의
-- `docs/SETUP_GUIDE.md`: 로컬 설치, Docker 실행, 환경 변수 설정 정리
-- `docs/TEST_CHECKLIST.md`: 기능별 수동 검증 체크리스트
-- `docs/DEMO_SCENARIO.md`: 면접 및 포트폴리오 시연 흐름
+- `docs/00_DOCUMENT_INDEX.md`: 전체 문서 목록과 추천 읽기 순서
+- `docs/08_API_SPEC.md`: API 엔드포인트, 요청, 응답, 오류 코드 정리
+- `docs/07_DB_SCHEMA.md`: MariaDB 테이블 구조와 컬럼 정의
+- `docs/09_SETUP_GUIDE.md`: 로컬 설치, Docker 실행, 환경 변수 설정 정리
+- `docs/10_TEST_CHECKLIST.md`: 기능별 수동 검증 체크리스트
+- `docs/11_DEMO_SCENARIO.md`: 면접 및 포트폴리오 시연 흐름
 - `postman/NativePHPHybrid.postman_collection.json`: API 검증용 Postman Collection

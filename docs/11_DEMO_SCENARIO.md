@@ -57,9 +57,9 @@ http://10.0.2.2
 
 확인 문서:
 
-- `docs/PROJECT_OVERVIEW.md`
-- `docs/TECH_STACK.md`
-- `docs/PROJECT_STRUCTURE.md`
+- `docs/01_PROJECT_OVERVIEW.md`
+- `docs/02_TECH_STACK.md`
+- `docs/03_PROJECT_STRUCTURE.md`
 
 ### 5.2 프로젝트 구조 설명
 
